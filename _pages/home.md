@@ -22,12 +22,12 @@ These challenges and issues call for the need of robust artificial intelligence 
 <table style="width: 90%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Paper Submission Deadline<br/>(<i>long &amp; short papers</i>)</td>
+            <td style="width: 40%;">Paper Submission Deadline</td>
             <td style="width: 30%;">Friday</td>
             <td>November 15th, 2019</td>
         </tr>
         <tr>
-            <td>Notification of Acceptance<br/>(<i>long &amp; short papers</i>)</td>
+            <td>Notification of Acceptance</td>
             <td>Wednesday</td>
             <td>December 4th, 2019</td>
         </tr>   
