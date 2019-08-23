@@ -1,9 +1,8 @@
 # main links
 main:
-  - title: "Home"
-    url: https://aaai-kdf2020.github.io
+
   - title: "Call for Papers"
-    url: https://aaai-kdf2020.github.io
+    url: call_for_papers.md
   - title: "Schedule"
     url: https://aaai-kdf2020.github.io/ 
   - title: "Organizers"
