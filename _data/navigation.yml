@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Home"
+    url: https://aaai-kdf2020.github.io
+  - title: "Call for Papers"
+    url: https://aaai-kdf2020.github.io
+  - title: "Schedule"
+    url: https://aaai-kdf2020.github.io/ 
+  - title: "Organizers"
+    url: https://aaai-kdf2020.github.io/
+  - title: "Program Committee"
+     url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
