@@ -1,13 +1,14 @@
 # main links
 main:
-
+  - title: "Home"
+    url: home
   - title: "Call for Papers"
     url: call_for_papers
   - title: "Schedule"
-    url: https://aaai-kdf2020.github.io/ 
+    url: schedule 
   - title: "Organization"
     url: organizers
   - title: "Program Committee"
-    url: /collection-archive/
+    url: program_committee
   # - title: "Sitemap"
   #   url: /sitemap/

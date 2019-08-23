@@ -49,3 +49,6 @@ These challenges and issues call for the need of robust artificial intelligence 
 </tbody>
 </table>
 </center>
+
+<h2 id='contact'>Contact Information</h2>
+For general inquiries about the KDF workshop and participation, please write to kdf2020@easychair.org.
