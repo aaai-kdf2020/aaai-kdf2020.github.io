@@ -2,11 +2,11 @@
 main:
 
   - title: "Call for Papers"
-    url: call_for_papers.md
+    url: call_for_papers
   - title: "Schedule"
     url: https://aaai-kdf2020.github.io/ 
-  - title: "Organizers"
-    url: https://aaai-kdf2020.github.io/
+  - title: "Organization"
+    url: organizers
   - title: "Program Committee"
     url: /collection-archive/
   # - title: "Sitemap"

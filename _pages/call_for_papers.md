@@ -1,7 +1,7 @@
 ---
 title: "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
-permalink: /
+permalink: /call_for_papers
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
@@ -28,4 +28,4 @@ We also encourage submissions of studies or applications pertinent to finance us
 
 <h2>Submissions</h2>
 
-We invite submissions of relevant work that be of interest to the workshop. All submissions must be original contributions, following the [AAAI-20 formatting guidelines](https://www.aaai.org/Publications/Templates/AuthorKit20.zip). We accept two types of submissions - full research paper no longer than 8 pages and short/poster paper with 2-4 pages. Submission will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=kdf2020).
+We invite submissions of relevant work that be of interest to the workshop. All submissions must be original contributions, following the [AAAI-20 formatting guidelines](https://www.aaai.org/Publications/Templates/AuthorKit20.zip). We accept two types of submissions - full research paper no longer than 8 pages and short/poster paper with 2-4 pages. Submission will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=kdf2020). Any submission questions, write to the organizer at kdf2020@easychair.org.
