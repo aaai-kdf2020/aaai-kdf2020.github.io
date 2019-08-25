@@ -29,3 +29,6 @@ We also encourage submissions of studies or applications pertinent to finance us
 <h2>Submissions</h2>
 
 We invite submissions of relevant work that be of interest to the workshop. All submissions must be original contributions, following the [AAAI-20 formatting guidelines](https://www.aaai.org/Publications/Templates/AuthorKit20.zip). We accept two types of submissions - full research paper no longer than 8 pages and short/poster paper with 2-4 pages. Submission will be accepted via [EasyChair submission website](https://easychair.org/conferences/?conf=kdf2020). Any submission questions, write to the organizer at kdf2020@easychair.org.
+
+All accepted papers will be presented as posters and some may be selected as oral presentations. At least one author of each accepted submission must attend the workshop to present their work. All accepted papers will be posted on this website.
+

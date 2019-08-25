@@ -16,8 +16,7 @@ In the financial services industry in particular, vast analysiswork requires kno
 
 These challenges and issues call for the need of robust artificial intelligence (AI) algorithms and systems. The design and implementation of these AI techniques to meet financial business operations requires the joint effort between academia researchers and industry practitioners. 
 
-We cordially welcome researchers, practitioners, and students from academic and industrial communities who are interested in the topics to participate; at least one author of each accepted submission must be present at the workshop.
-
+This one-day workshop will include invited speaks, paper presentations, and poster sessions to showcase research opportunities,novel solutions and systems, and success stories. We cordially welcome researchers, practitioners, and students from academic and industrial communities who are interested in the topics to participate and/or submit their original work. 
 
 <h2 id="dates">Important Dates</h2>
 <center>
