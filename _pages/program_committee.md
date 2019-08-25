@@ -8,7 +8,7 @@ header:
 excerpt: "<br/>Program Committee<br/>"
 ---
 
-<h4>Armineh Nourbakhsh (S&P Global)</h4>
-<h4>Grace Bang (S&P Global)</h4>
-<h4>Mingyang Di (S&P Global)</h4>
-<h4>Zhiqiang Ma (S&P Global)</h4>
+Armineh Nourbakhsh (S&P Global)<br>
+Grace Bang (S&P Global)<br>
+Mingyang Di (S&P Global)<br>
+Zhiqiang Ma (S&P Global)<br>
