@@ -5,7 +5,7 @@ permalink: /call_for_papers
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/><br/>"
+excerpt: "<br/>Call for Papers<br/>"
 ---
 
 <h2>Call for Papers</h2>
