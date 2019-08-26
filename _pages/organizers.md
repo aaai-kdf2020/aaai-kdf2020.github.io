@@ -5,7 +5,7 @@ permalink: /organizers
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>KDF organizing committee<br/>"
+excerpt: "<br/>KDF Organizing Committee<br/>"
 ---
 <h3>Xiaomo Liu</h3>
 Xiaomo is a Director of Data Science at S&P Global Ratings focusing on using machine learning and natural language processing to improve credit rating practices. Prior to S&P, Xiaomo was a senior research scientist at Thomson Reuters, where he invented AI algorithms and systems to help news and legal professionals to automate their workflow. Xiaomo holds a PhD in computer science from Virginia Tech and published over 30 papers and 3 patents.
