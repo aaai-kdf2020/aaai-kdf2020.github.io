@@ -12,5 +12,6 @@ Armineh Nourbakhsh (S&P Global)<br>
 Georg Kucsko (Kensho)<br>
 Grace Bang (S&P Global)<br>
 Mingyang Di (S&P Global)<br>
+Qian Yang (Duke University)<br>
 Zhiqiang Ma (S&P Global)<br>
 
