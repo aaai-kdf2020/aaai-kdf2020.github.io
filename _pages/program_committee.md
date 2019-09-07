@@ -13,5 +13,6 @@ Georg Kucsko (Kensho)<br>
 Grace Bang (S&P Global)<br>
 Mingyang Di (S&P Global)<br>
 Qian Yang (Duke University)<br>
+Sumitra Ganesh (JP Morgan)<br>
 Zhiqiang Ma (S&P Global)<br>
 
