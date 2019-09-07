@@ -24,7 +24,7 @@ We invite submissions of original contributions on methods, applications, and sy
 - Event discovery from alternative data and impact on organization equity price.
 
 
-We also encourage submissions of studies or applications pertinent to finance using other types of unstructured data such as financial transactions, sensors, mobile devices, satellites, social media etc.
+We also encourage submissions of studies or applications pertinent to finance using other types of unstructured data such as financial transactions, sensors, mobile devices, satellites, social media.
 
 <h2>Submissions</h2>
 
