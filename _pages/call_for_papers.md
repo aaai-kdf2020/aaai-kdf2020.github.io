@@ -14,12 +14,12 @@ We invite submissions of original contributions on methods, applications, and sy
 
 - Knowledge representation;
 - Natural language processing and understanding for financial documents;
-- Search and question answering systems designed for financialcorpora;
+- Search and question answering systems designed for financial corpora;
 - Named-entity recognition, disambiguation, relationship discovery, ontology learning and extraction from financial documents;
 - Knowledge alignment and integration from heterogeneous data;
 - AI assisted data tagging and labeling;
 - Data acquisition, augmentation, feature engineering, and analysis for investment and risk management; 
-- Automatic knowledge extraction from financial fillings and quality verification; 
+- Automatic knowledge extraction from financial filings and quality verification; 
 - AI systems for relationship extraction and risk assessment from legal documents;
 - Event discovery from alternative data and impact on organization equity price.
 
