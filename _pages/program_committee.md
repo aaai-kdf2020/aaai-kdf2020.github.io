@@ -13,7 +13,7 @@ Georg Kucsko (Kensho, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Grace Bang (S&P Global, USA)<br>
 Mingyang Di (S&P Global, USA)<br>
-Mohammad M. Ghassemi (Michigan State University, USA)
+Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Qian Yang (Duke University, USA)<br>
 Sumitra Ganesh (JP Morgan, USA)<br>
 Zhiqiang Ma (S&P Global, USA)<br>
