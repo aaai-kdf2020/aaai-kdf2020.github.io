@@ -8,12 +8,13 @@ header:
 excerpt: "<br/>Program Committee<br/>"
 ---
 
-Armineh Nourbakhsh (S&P Global)<br>
-Georg Kucsko (Kensho)<br>
-Gianluca Demartini (University of Queensland)<br>
-Grace Bang (S&P Global)<br>
-Mingyang Di (S&P Global)<br>
-Qian Yang (Duke University)<br>
-Sumitra Ganesh (JP Morgan)<br>
-Zhiqiang Ma (S&P Global)<br>
-
+Armineh Nourbakhsh (S&P Global, USA)<br>
+Georg Kucsko (Kensho, USA)<br>
+Gianluca Demartini (University of Queensland, Australia)<br>
+Grace Bang (S&P Global, USA)<br>
+Mingyang Di (S&P Global, USA)<br>
+Mohammad M. Ghassemi (Michigan State University, USA)
+Qian Yang (Duke University, USA)<br>
+Sumitra Ganesh (JP Morgan, USA)<br>
+Zhiqiang Ma (S&P Global, USA)<br>
+Zhongyu Wei (Fudan University, China)
