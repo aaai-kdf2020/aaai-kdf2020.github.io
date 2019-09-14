@@ -16,6 +16,7 @@ Mingyang Di (S&P Global, USA)<br>
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Qian Yang (Duke University, USA)<br>
 Samuel Assefa (JP Morgan, UK)<br>
+Sumanta Basu (Cornell University, USA)<br>
 Sumitra Ganesh (JP Morgan, USA)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Zhiqiang Ma (S&P Global, USA)<br>
