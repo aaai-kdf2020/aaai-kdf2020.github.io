@@ -45,7 +45,7 @@ This one-day workshop will include invited speaks, paper presentations, and post
         <tr>
             <td>AAAI-20 Late Registration Deadline</td>
             <td>Wednesday</td>
-            <td>December 18th, 2019</td>
+            <td>January 10th, 2020</td>
         </tr>        
         <tr>
             <td>Workshop</td>
