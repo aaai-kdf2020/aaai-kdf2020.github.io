@@ -8,7 +8,7 @@ header:
 excerpt: "<br/>KDF Organizing Committee<br/>"
 ---
 <h3>Xiaomo Liu</h3>
-Xiaomo is a Director of Data Science at S&P Global Ratings focusing on using machine learning and natural language processing to improve credit rating practices. Prior to S&P, Xiaomo was a senior research scientist at Thomson Reuters, where he invented AI algorithms and systems to help news and legal professionals to automate their workflow. Xiaomo holds a PhD in computer science from Virginia Tech and published more than 30 peer reviewed papers and 3 US patents.
+Xiaomo is a Director of Data Science at S&P Global Ratings focusing on using machine learning and natural language processing to improve credit rating practices. Prior to S&P, Xiaomo was a senior research scientist at Thomson Reuters, where he invented AI algorithms and systems to help news and legal professionals to automate their workflow. His work has been reported by numerous news media and won industry awards. Xiaomo holds a PhD in computer science from Virginia Tech and published more than 30 peer reviewed papers and 3 US patents.
 
 <h3>Sameena Shah</h3>
 
