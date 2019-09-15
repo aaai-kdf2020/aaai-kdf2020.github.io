@@ -5,7 +5,7 @@ permalink: /program_committee
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>Program Committee<br/>"
+excerpt: "<br/>Program Committee (work in progress)<br/>"
 ---
 
 Armineh Nourbakhsh (S&P Global, USA)<br>

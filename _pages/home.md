@@ -23,9 +23,14 @@ This one-day workshop will include invited speaks, paper presentations, and post
 <table style="width: 90%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Paper Submission Deadline</td>
+            <td style="width: 40%;">Abstract Submission (optional)</td>
             <td style="width: 30%;">Friday</td>
-            <td>November 15th, 2019</td>
+            <td>November 8th, 2019</td>
+        </tr>
+        <tr>
+            <td>Paper Submission Deadline</td>
+            <td>Friday</td>
+            <td>December 15th, 2019</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
