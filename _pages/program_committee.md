@@ -12,6 +12,7 @@ Armineh Nourbakhsh (S&P Global, USA)<br>
 Georg Kucsko (Kensho, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Grace Bang (S&P Global, USA)<br>
+Jochen L. Leidner (University of Sheffield, UK)<br>
 Mingyang Di (S&P Global, USA)<br>
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Qian Yang (Duke University, USA)<br>

@@ -12,7 +12,7 @@ Xiaomo is a Director of Data Science at S&P Global Ratings focusing on using mac
 
 <h3>Sameena Shah</h3>
 
-Sameena is a Managing Director and the Head of Data Science for S&P Global Ratings. Previously Sameenaled AI strategy, Research and development for Financial and News verticals of Thomson Reuters, where Sameena and her team built and deployed several AI systems including Reuters Tracer, and Magnet. Sameena has worked or consulted for several hedge funds, asset management firms and startups. She has won several best paper and industry awards, and holds a PhD and Masters in Machine Learning and Optimization from IIT Delhi. She served as an organizer for NIPS 2018 FEAP-AI4F workshop and invited speaker in KDD ADF 2019 workshop.
+Sameena is a Managing Director at JP Morgan Chase AI. Before that, she was the Head of Data Science at S&P Global Ratings. Previously, Sameena led AI strategy, Research and development for Financial and News verticals of Thomson Reuters, where Sameena and her team built and deployed several AI systems including Reuters Tracer, and Magnet. Sameena has worked or consulted for several hedge funds, asset management firms and startups. She has won several best paper and industry awards, and holds a PhD and Masters in Machine Learning and Optimization from IIT Delhi. She served as an organizer for NIPS 2018 FEAP-AI4F workshop and invited speaker in KDD ADF 2019 workshop.
 
 <h3>Manuela M. Veloso</h3>
 
