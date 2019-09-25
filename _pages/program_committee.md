@@ -19,8 +19,7 @@ Qian Yang (Duke University, USA)<br>
 Samuel Assefa (JP Morgan, UK)<br>
 Sumanta Basu (Cornell University, USA)<br>
 Sumitra Ganesh (JP Morgan, USA)<br>
-Venkat Srinivasan (Virginia Tech, USA)<br:wq
->
+Venkat Srinivasan (Virginia Tech, USA)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Zhiqiang Ma (S&P Global, USA)<br>
 Zhongyu Wei (Fudan University, China)
