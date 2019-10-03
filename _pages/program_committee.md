@@ -5,7 +5,7 @@ permalink: /program_committee
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
-excerpt: "<br/>Program Committee (work in progress)<br/>"
+excerpt: "<br/>Program Committee<br/>"
 ---
 
 Armineh Nourbakhsh (S&P Global, USA)<br>
@@ -15,6 +15,7 @@ Grace Bang (S&P Global, USA)<br>
 Jochen L. Leidner (Refinitiv Labs/University of Sheffield, UK)<br>
 Mingyang Di (S&P Global, USA)<br>
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
+Natraj Raman (S&P Global)<br>
 Qian Yang (Duke University, USA)<br>
 Samuel Assefa (JP Morgan, UK)<br>
 Sumanta Basu (Cornell University, USA)<br>
