@@ -15,7 +15,7 @@ excerpt: "<br/>Schedule<br/>"
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span">![My helpful screenshot](/assets/images/gliozzo.jpg)</td>
+<td markdown="span"><img src="/assets/images/gliozzo.jpg" alt="gliozzo" width="200"/>()</td>
 <td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 </tr>
 <tr>
@@ -25,7 +25,6 @@ excerpt: "<br/>Schedule<br/>"
 </tr>
 </tbody>
 </table>
-Alfio Massimiliano Gliozzo
 
 <h2>Schedule</h2>
 
