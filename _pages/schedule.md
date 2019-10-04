@@ -21,11 +21,6 @@ Research Manager - Knowledge Induction, IBM T.J. Watson Research<br>
 Alfio Gliozzo is a researcher with over 13 years of postdoctoral experience in the field of Artificial Intelligence. He manages the Knowledge Induction department at IBM T.J. Watson Research and he is a global leader for the area of Knowledge in IBM research AI. His research focuses on automatic induction of knowledge graphs from text and their exploitation for enterprise AI solutions. He published approximately 100 scientific publications, including books, papers and patents. He was part of the Deep QA team that developed Watson, the system that defeated the Jeopardy! grand masters.
  </td>
 </tr>
-<tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
-</tr>
 </tbody>
 </table>
 
