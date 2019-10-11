@@ -7,7 +7,7 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Program Committee<br/>"
 ---
-
+Anuj Karpatne (Virginia Tech, USA)<br>
 Armineh Nourbakhsh (S&P Global, USA)<br>
 Georg Kucsko (Kensho, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
