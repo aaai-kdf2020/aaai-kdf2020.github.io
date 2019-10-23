@@ -9,6 +9,7 @@ excerpt: "<br/>Program Committee<br/>"
 ---
 Anuj Karpatne (Virginia Tech, USA)<br>
 Armineh Nourbakhsh (S&P Global, USA)<br>
+Eren Kursun (Bank of America, USA)<br>
 Georg Kucsko (Kensho, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>
 Grace Bang (S&P Global, USA)<br>
@@ -16,7 +17,7 @@ Jochen L. Leidner (Refinitiv Labs/University of Sheffield, UK)<br>
 Mingyang Di (S&P Global, USA)<br>
 Mohammad M. Ghassemi (Michigan State University, USA)<br>
 Natraj Raman (S&P Global, UK)<br>
-Nicolas Turenne (Beijing Normal University-Hong Kong Baptist University)<br>
+Nicolas Turenne (Beijing Normal University-Hong Kong Baptist University, China)<br>
 Qian Yang (Duke University, USA)<br>
 Samuel Assefa (JP Morgan, UK)<br>
 Sumanta Basu (Cornell University, USA)<br>
