@@ -22,14 +22,15 @@ Alfio Gliozzo is a researcher with over 13 years of postdoctoral experience in t
  </td>
  </tr>
 
- <tr>
- <td markdown="span"><img src="/assets/images/dan.jpg" alt="Dan Roth" width="%20"/></td>
+<tr>
+<td markdown="span"><img src="/assets/images/gliozzo.jpg" alt="Dan Roth" width="%20"/></td>
 <td markdown="span">**Dan Roth**<br>
 Eduardo D. Glandt Distinguished Professor - Department of Computer and information Science, 
 University of Pennsylvania<br>
 Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania and a Fellow of the AAAS, the ACM, AAAI, and the ACL. In 2017 Roth was awarded the John McCarthy Award, the highest award the AI community gives to mid-career AI researchers. Roth was recognized “for major conceptual and theoretical advances in the modeling of natural language understanding, machine learning, and reasoning.” Roth has published broadly in machine learning, natural language processing, knowledge representation and reasoning, and learning theory, and has developed advanced machine learning based tools for natural language applications that are being used widely. Until February 2017 Roth was the Editor-in-Chief of the Journal of Artificial Intelligence Research (JAIR). Prof. Roth received his B.A Summa cum laude in Mathematics from the Technion, Israel, and his Ph.D. in Computer Science from Harvard University in 1995.
  </td>
  </tr>
+ 
  <tr>
  <td markdown="span"><img src="/assets/images/charles.jpg" alt="Charles P Elkan" width="%20"/></td>
 <td markdown="span">**Charles Elkan**<br>
