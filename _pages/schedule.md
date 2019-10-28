@@ -20,6 +20,22 @@ excerpt: "<br/>Schedule<br/>"
 Research Manager - Knowledge Induction, IBM T.J. Watson Research<br>
 Alfio Gliozzo is a researcher with over 13 years of postdoctoral experience in the field of Artificial Intelligence. He manages the Knowledge Induction department at IBM T.J. Watson Research and he is a global leader for the area of Knowledge in IBM research AI. His research focuses on automatic induction of knowledge graphs from text and their exploitation for enterprise AI solutions. He published approximately 100 scientific publications, including books, papers and patents. He was part of the Deep QA team that developed Watson, the system that defeated the Jeopardy! grand masters.
  </td>
+ <td markdown="span"><img src="/assets/images/dan.jpg" alt="Dan Roth" width="%20"/></td>
+<td markdown="span">**Dan Roth**<br>
+Eduardo D. Glandt Distinguished Professor - Department of Computer and information Science, 
+University of Pennsylvania<br>
+Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania, Until May 15 2017 he was a Founder Professor of Engineering at the Computer Science Department at the University of Illinois at Urbana-Champaign, with positions at the Beckman Institute, the Statistics, Linguistics and ECE Departments and at the graduate School of Library and Information Science. Roth is a Fellow of the American Association for the Advancement of Science (AAAS), the Association of Computing Machinery (ACM), the Association for the Advancement of Artificial Intelligence (AAAI), and the Association of Computational Linguistics (ACL), for his contributions to Machine Learning and to Natural Language Processing.
+ </td>
+ <td markdown="span"><img src="/assets/images/charles.jpg" alt="Charles P Elkan" width="%20"/></td>
+<td markdown="span">**Charles Elkan**<br>
+ </td>
+
+ <td markdown="span"><img src="/assets/images/danqi.jpg" alt="Danqi Chen" width="%20"/></td>
+<td markdown="span">**Danqi Chen**<br>
+Assistant Professor - Department of Computer Science, University of Princeton<br>
+Danqi an assistant professor of Computer Science at Princeton University. Previously, she was a visiting research scientist at Facebook AI Research (Seattle). She received her PhD from the Computer Science Department at Stanford University, where she was advised by Christopher Manning and worked in the Stanford NLP Group. Before that, She was an undergraduate student from the Special Pilot CS Class supervised by Andrew Yao at Tsinghua University. Her main research interests lie within deep learning for natural language processing, and she is particularly interested in the intersection between text understanding and knowledge representation/reasoning.
+ </td>
+
 </tr>
 </tbody>
 </table>
