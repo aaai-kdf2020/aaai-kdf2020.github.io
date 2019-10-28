@@ -41,7 +41,7 @@ Professor - Computer Science and Engineering Department, University of Californi
  <td markdown="span"><img src="/assets/images/danqi.jpg" alt="Danqi Chen" width="%20"/></td>
 <td markdown="span">**Danqi Chen**<br>
 Assistant Professor - Department of Computer Science, University of Princeton<br>
-Danqi an assistant professor of Computer Science at Princeton University. Previously, she was a visiting research scientist at Facebook AI Research (Seattle). She received her PhD from the Computer Science Department at Stanford University, where she was advised by Christopher Manning and worked in the Stanford NLP Group. Before that, She was an undergraduate student from the Special Pilot CS Class supervised by Andrew Yao at Tsinghua University. Her main research interests lie within deep learning for natural language processing, and she is particularly interested in the intersection between text understanding and knowledge representation/reasoning.
+Danqi is an assistant professor of Computer Science at Princeton University. Previously, she was a visiting research scientist at Facebook AI Research (Seattle). She received her PhD from the Computer Science Department at Stanford University, where she was advised by Christopher Manning and worked in the Stanford NLP Group. Before that, she was an undergraduate student from the Special Pilot CS Class supervised by Andrew Yao at Tsinghua University. Her main research interests lie within deep learning for natural language processing, and she is particularly interested in the intersection between text understanding and knowledge representation/reasoning.
  </td>
 </tr>
 </tbody>
