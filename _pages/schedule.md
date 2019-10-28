@@ -33,6 +33,8 @@ Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of C
  <tr>
  <td markdown="span"><img src="/assets/images/charles.jpg" alt="Charles P Elkan" width="%20"/></td>
 <td markdown="span">**Charles Elkan**<br>
+Managing Director - Goldman Sachs<br>
+Professor - Computer Science and Engineering Department, University of California, San Diego<br>
  </td>
 </tr>
 <tr>
