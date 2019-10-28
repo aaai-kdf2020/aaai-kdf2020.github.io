@@ -23,7 +23,7 @@ Alfio Gliozzo is a researcher with over 13 years of postdoctoral experience in t
  </tr>
 
 <tr>
-<td markdown="span"><img src="/assets/images/gliozzo.jpg" alt="Dan Roth" width="%20"/></td>
+<td markdown="span"><img src="/assets/images/dan.jpg" alt="Dan Roth" width="%20"/></td>
 <td markdown="span">**Dan Roth**<br>
 Eduardo D. Glandt Distinguished Professor - Department of Computer and information Science, 
 University of Pennsylvania<br>
