@@ -49,8 +49,8 @@ This one-day workshop will include invited speaks, paper presentations, and post
         </tr>        
         <tr>
             <td>Workshop</td>
-            <td>Friday &ndash; Saturday</td>
-            <td>Februray 7th &ndash; 8th, 2020</td>
+            <td>Friday</td>
+            <td>Februray 7th, 2020</td>
         </tr>   
 </tbody>
 </table>
