@@ -30,8 +30,10 @@ This one-day workshop will include invited speaks, paper presentations, and post
         <tr>
             <td>Paper Submission Deadline</td>
             <td>Wednesday</td>
-            <td>~November 15th, 2019~</td>
-            <td>November 20th, 2019</td>
+            <td>~~November 15th, 2019~~<br>
+                November 20th, 2019
+            </td>
+            
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
