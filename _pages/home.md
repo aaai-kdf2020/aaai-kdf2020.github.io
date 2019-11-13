@@ -18,7 +18,7 @@ These challenges and issues call for the need of robust artificial intelligence 
 
 This one-day workshop will include invited speaks, paper presentations, and poster sessions to showcase research opportunities, novel solutions and systems, and success stories. We cordially welcome researchers, practitioners, and students from academic and industrial communities who are interested in the topics to participate and/or submit their original work.
 
-<h2 id="dates">Important Dates</h2>
+<h2 id="dates">Important Dates (GMT)</h2>
 <center>
 <table style="width: 90%">
     <tbody>
@@ -29,8 +29,9 @@ This one-day workshop will include invited speaks, paper presentations, and post
         </tr>
         <tr>
             <td>Paper Submission Deadline</td>
-            <td>Friday</td>
-            <td>November 15th, 2019</td>
+            <td>Wednesday</td>
+            <td>~November 15th, 2019~</td>
+            <td>November 20th, 2019</td>
         </tr>
         <tr>
             <td>Notification of Acceptance</td>
