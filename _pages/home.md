@@ -23,15 +23,15 @@ This one-day workshop will include invited speaks, paper presentations, and post
 <table style="width: 90%">
     <tbody>
         <tr>
-            <td style="width: 40%;">Abstract Submission (optional)</td>
-            <td style="width: 30%;">Friday</td>
-            <td>November 8th, 2019</td>
+            <td style="width: 40%;"><s>Abstract Submission (optional)</s></td>
+            <td style="width: 30%;"><s>Friday</s></td>
+            <td><s>November 8th, 2019</s></td>
         </tr>
         <tr>
-            <td>Paper Submission Deadline</td>
-            <td>Wednesday</td>
+            <td><s>Paper Submission Deadline</s></td>
+            <td><s>Wednesday</s></td>
             <td><s>November 15th, 2019</s><br>
-                November 20th, 2019
+                <s>November 20th, 2019</s>
             </td>
             
         </tr>
