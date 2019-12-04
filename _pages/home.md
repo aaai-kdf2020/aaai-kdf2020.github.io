@@ -37,7 +37,7 @@ This one-day workshop will include invited speaks, paper presentations, and post
         </tr>
         <tr>
             <td><s>Notification of Acceptance</td>
-            <td>Friday<></td>
+            <td>Friday</td>
             <td><s>December 4th, 2019</s><br>
             December 6th, 2019
             </td>
