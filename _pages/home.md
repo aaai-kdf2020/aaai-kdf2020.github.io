@@ -36,9 +36,11 @@ This one-day workshop will include invited speaks, paper presentations, and post
             
         </tr>
         <tr>
-            <td>Notification of Acceptance</td>
-            <td>Wednesday</td>
-            <td>December 4th, 2019</td>
+            <td><s>Notification of Acceptance</td>
+            <td>Friday<></td>
+            <td><s>December 4th, 2019</s><br>
+            December 6th, 2019
+            </td>
         </tr>   
         <tr>
             <td>AAAI-20 Early Registration Deadline </td>
