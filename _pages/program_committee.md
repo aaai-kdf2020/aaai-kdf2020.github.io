@@ -9,6 +9,7 @@ excerpt: "<br/>Program Committee<br/>"
 ---
 Anuj Karpatne (Virginia Tech, USA)<br>
 Armineh Nourbakhsh (S&P Global, USA)<br>
+Chong Wang (S&P Global, USA)<br>
 Eren Kursun (Columbia University, USA)<br>
 Georg Kucsko (Kensho, USA)<br>
 Gianluca Demartini (University of Queensland, Australia)<br>

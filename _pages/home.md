@@ -36,10 +36,10 @@ This one-day workshop will include invited speaks, paper presentations, and post
             
         </tr>
         <tr>
-            <td>Notification of Acceptance</td>
-            <td>Friday</td>
+            <td><s>Notification of Acceptance</s></td>
+            <td><s>Friday</s></td>
             <td><s>December 4th, 2019</s><br>
-            December 6th, 2019
+            <s>December 6th, 2019<s>
             </td>
         </tr>   
         <tr>
