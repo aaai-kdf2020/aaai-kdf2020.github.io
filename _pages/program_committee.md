@@ -7,7 +7,6 @@ header:
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Program Committee<br/>"
 ---
-Anuj Karpatne (Virginia Tech, USA)<br>
 Armineh Nourbakhsh (S&P Global, USA)<br>
 Chong Wang (S&P Global, USA)<br>
 Eren Kursun (Columbia University, USA)<br>
@@ -23,7 +22,6 @@ Qian Yang (Duke University, USA)<br>
 Samuel Assefa (JP Morgan, UK)<br>
 Sumanta Basu (Cornell University, USA)<br>
 Sumitra Ganesh (JP Morgan, USA)<br>
-Venkat Srinivasan (Virginia Tech, USA)<br>
 Wei Wang (Microsoft Research, USA)<br>
 Zhiqiang Ma (S&P Global, USA)<br>
 Zhongyu Wei (Fudan University, China)
