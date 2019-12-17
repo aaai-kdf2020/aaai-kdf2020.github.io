@@ -35,7 +35,7 @@ Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of C
  <td markdown="span"><img src="/assets/images/charles.jpg" alt="Charles P Elkan" width="%10"/></td>
 <td markdown="span">**Charles Elkan**<br>
 Managing Director - Goldman Sachs<br>
-Professor - Computer Science and Engineering Department, University of California, San Diego<br>
+Charles Elkan is the head of machine learning at Goldman Sachs, and also an adjunct professor of computer science at the University of California, San Diego (UCSD). Earlier, he was the first Amazon Fellow, leading a team of over 30 scientists and engineers in Seattle, Palo Alto, and New York doing research and development in applied machine learning in both e-commerce and cloud computing. Before joining Amazon, he was a full professor of computer science at UCSD.<br>
  </td>
 </tr>
 <tr>
