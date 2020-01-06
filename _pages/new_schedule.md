@@ -58,7 +58,7 @@ excerpt: "<br/>Schedule<br/>"
         <td>Title 5</td>
         <td>Speaker5</td>
     </tr>  
-    <tr>
+    <tr bgcolor="#FF0000">
         <tdcolor>Coffee Break</tdcolor>
         <tdcolor></tdcolor>
         <tdcolor></tdcolor>
