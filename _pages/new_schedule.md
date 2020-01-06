@@ -59,7 +59,8 @@ excerpt: "<br/>Schedule<br/>"
         <td>Speaker5</td>
     </tr>  
     <tr>
-        <td markdown="span" ><span class="nv">Coffee Break</span></td>
+        <td markdown="span" ><span class="color:blue">Coffee Break</span></td>
+        <td></td>
         <td></td>
     </tr>  
     <tr>
