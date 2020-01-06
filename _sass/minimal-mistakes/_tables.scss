@@ -32,6 +32,13 @@ td {
   border-bottom: 1px solid mix(#000, $border-color, 25%);
 }
 
+tdcolor {
+  padding: 0.5em;
+  border-bottom: 1px solid mix(#000, $border-color, 25%);
+  /*color: */
+  background-color: #fff;
+}
+
 tr,
 td,
 th {
