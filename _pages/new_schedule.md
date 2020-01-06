@@ -30,7 +30,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>
     <tr>
         <td>9:00-9:40</td>
-        <td>Keynote 1</td>
+        <td>*Keynote 1*</td>
         <td>Speaker1 </td>
     </tr>   
     <tr>
