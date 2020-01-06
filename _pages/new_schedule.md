@@ -59,15 +59,59 @@ excerpt: "<br/>Schedule<br/>"
         <td>Speaker5</td>
     </tr>  
     <tr>
-        <td>10:30-11:00</td>
-        <td>Break</td>
-        <td>Speaker3</td>
+        <td markdown="span" ><span class="nv">Coffee Break</span></td>
+        <td></td>
     </tr>  
     <tr>
-        <td>11:30-11:40</td>
+        <td>11:00-11:40</td>
         <td>Keynote2</td>
         <td>Speaker1</td>
     </tr>  
+    <tr>
+        <td>11:40-11:50</td>
+        <td>Keynote2</td>
+        <td>Speaker1</td>
+    </tr>  
+    <tr>
+        <td>11:50-12:00</td>
+        <td>Keynote2</td>
+        <td>Speaker1</td>
+    </tr> 
+    <tr>
+        <td>12:00-12:10</td>
+        <td>Keynote2</td>
+        <td>Speaker1</td>
+    </tr>  
+    <tr>
+        <td>12:10-1:30</td>
+        <td>Lunch</td>
+        <td></td>
+    </tr>  
+    <tr>
+        <td>1:30-2:10</td>
+        <td>Keynote 3</td>
+        <td>Speaker1</td>
+    </tr>  
+    <tr>
+        <td>2:10-2:50</td>
+        <td>Keynote4</td>
+        <td>Speaker1</td>
+    </tr>  
+    <tr>
+        <td>2:50-3:30</td>
+        <td>Panel</td>
+        <td>Speaker1</td>
+    </tr> 
+    <tr>
+        <td>3:30-4:00</td>
+        <td>Coffee Break</td>
+        <td></td>
+    </tr> 
+    <tr>
+        <td>4:00-5:30</td>
+        <td>Poster Session</td>
+        <td></td>
+    </tr> 
 </tbody>
 </table>
 </center>
