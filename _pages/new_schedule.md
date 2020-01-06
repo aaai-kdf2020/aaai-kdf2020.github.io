@@ -59,9 +59,9 @@ excerpt: "<br/>Schedule<br/>"
         <td>Speaker5</td>
     </tr>  
     <tr bgcolor="#FF0000">
-        <tdcolor>Coffee Break</tdcolor>
-        <tdcolor></tdcolor>
-        <tdcolor></tdcolor>
+        <td>Coffee Break</td>
+        <td></td>
+        <td></td>
     </tr>  
     <tr>
         <td>11:00-11:40</td>
