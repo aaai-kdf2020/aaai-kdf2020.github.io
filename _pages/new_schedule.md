@@ -25,7 +25,7 @@ excerpt: "<br/>Schedule<br/>"
 <tbody>
     <tr>
         <td>8:50-9:00</td>
-        <td style="color:#0000ff">Open Remarks</td>
+        <td>Open Remarks</td>
         <td>Organizer 1</td>
     </tr>
     <tr>
@@ -58,7 +58,7 @@ excerpt: "<br/>Schedule<br/>"
         <td>Title 5</td>
         <td>Speaker5</td>
     </tr>  
-    <tr bgcolor="#FF0000">
+    <tr bgcolor="#f7f1df">
         <td>10:30-11:00</td>
         <td>Coffee Break</td>
         <td></td>
@@ -83,7 +83,7 @@ excerpt: "<br/>Schedule<br/>"
         <td>Keynote2</td>
         <td>Speaker1</td>
     </tr>  
-    <tr>
+    <tr bgcolor="#f7f1df">
         <td>12:10-1:30</td>
         <td>Lunch</td>
         <td></td>
@@ -103,7 +103,7 @@ excerpt: "<br/>Schedule<br/>"
         <td>Panel</td>
         <td>Speaker1</td>
     </tr> 
-    <tr>
+    <tr bgcolor="#f7f1df">
         <td>3:30-4:00</td>
         <td>Coffee Break</td>
         <td></td>
