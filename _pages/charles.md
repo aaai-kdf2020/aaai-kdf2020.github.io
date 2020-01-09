@@ -2,8 +2,12 @@
 title: "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: single
 permalink: /charles
-author_profile: true
-author: Charles Elkan
+#author_profile: true
+#author: Charles Elkan
+sidebar:
+ - title    : "Charles Elkan"
+   image    : /assets/images/charles.jpg
+   text     : "Managing Director - Goldman Sachs"
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
