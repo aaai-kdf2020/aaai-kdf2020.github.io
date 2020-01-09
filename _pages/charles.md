@@ -2,6 +2,7 @@
 title: "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 permalink: /charles
+author_profile: true
 author: Charles Elkan
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
