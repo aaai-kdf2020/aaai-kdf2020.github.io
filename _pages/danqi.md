@@ -8,7 +8,7 @@ classes: wide
 sidebar:
  - title    : "Danchi Chen"
    image    : /assets/images/danqi.jpg
-   text     : "Department of Computer Science, Princeton University"
+   text     : "Assistant Professor - Department of Computer Science, Princeton University"
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
