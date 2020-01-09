@@ -31,7 +31,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>
     <tr>
         <td>9:00-9:40</td>
-        <td markdown="span">*Keynote: Machine Learning in Finance - Lessons Learned*</td>
+        <td markdown="span">*[Keynote: Machine Learning in Finance - Lessons Learned](/charles)*</td>
         <td>Charles Elkan<br>(Goldman Sachs) </td>
     </tr>   
     <tr>
