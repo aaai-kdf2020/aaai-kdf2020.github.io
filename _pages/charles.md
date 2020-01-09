@@ -1,7 +1,8 @@
 ---
 title: "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
-layout: single
+layout: splash
 permalink: /charles
+
 #author_profile: true
 #author: Charles Elkan
 sidebar:
@@ -16,5 +17,5 @@ header:
 
 Charles Elkan is the head of machine learning at Goldman Sachs, and also an adjunct professor of computer science at the University of California, San Diego (UCSD). Earlier, he was the first Amazon Fellow, leading a team of over 30 scientists and engineers in Seattle, Palo Alto, and New York doing research and development in applied machine learning in both e-commerce and cloud computing. Before joining Amazon, he was a full professor of computer science at UCSD.
 
-<h2>Machine Learning in Finance - Lessons Learned</h2>
+<h2>Title: Machine Learning in Finance - Lessons Learned</h2>
 <h3>Abstract:</h3> This is an abstract
