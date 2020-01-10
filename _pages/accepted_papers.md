@@ -13,95 +13,81 @@ excerpt: "<br/>Accepted Papers<br/>"
 <table>
 
 <tbody>
-    <tr>
+    <tr bgcolor="#f7f1df">
         <td markdown="span">[Leveraging Contextual Text Representations for Anonymizing German Financial Documents](/assets/pdfs/kdf2020_paper_14.pdf)<br>
             D. Biesner, R. Ramamurthy, M. Lübbering, B. Fürst, H. Ismail, L. Hillebrand, A. Ladi, M. Pielka, R. Stenzel, T. Khameneh, V. Krapp, I. Huseynov, J. Schlums, U. Stoll, U. Warning, B. Kliem, C. Bauckhage, and R. Sifa
         </td>
     </tr>
     <tr>
-        
-        <td markdown="span">*[Keynote: Machine Learning in Finance - Lessons Learned](/charles)*</td>
+        <td markdown="span">["The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        T. Lin, R. Sun, H. Chang, C. Wang, and M. Tsai
+        </td>
     </tr>   
+    <tr bgcolor="#f7f1df">
+        <td markdown="span">[Economic News Impact Analysis Using Causal-Chain Search from Textural Data](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        K. Izumi, S. Suda and H. Sakaji
+        </td>
+    </tr>
     <tr>
-        <td>9:40-9:50</td>
-        <td>"The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports</td>
-        <td>Ting-Wei Lin <br>(National Chengchi University) </td>
-    </tr>        
+        <td markdown="span">[The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        M. Ghassemi, C. Song and T. Alhanai
+        </td>
+    </tr>         
+    <tr bgcolor="#f7f1df">
+        <td markdown="span">[A Robust Transferable Deep Learning Framework for Cross-sectional Investment Strategy](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        K. Nakagawa, M. Abe and J. Komiyama
+        </td>
+    </tr>
     <tr>
-        <td>9:50-10:00</td>
-        <td>Economic News Impact Analysis Using Causal-Chain Search from Textural Data</td>
-        <td>Kiyoshi Izumi<br> (University of Tokyo)</td>
-    </tr>        
-    <tr>
-        <td>10:00-10:10</td>
-        <td>Mining Company Sustainability Reports to Aid Financial Decision-making </td>
-        <td>Tushar Goel <br> (Tata Consultancy)</td>
-    </tr>  
-    <tr>
-        <td>10:10-10:20</td>
-        <td>Leveraging Contextual Text Representations for Anonymizing German Financial Documents</td>
-        <td>David Biesner <br> (Fraunhofer)</td>
-    </tr>  
-    <tr>
-        <td>10:20-10:30</td>
-        <td>A Credit Scoring Model for SMEs Based on Social Media Data</td>
-        <td>Septian Putra <br> (Exact Software)</td>
+        <td markdown="span">[WATTNet: Learning to Trade FX via Hierarchical Spatio-Temporal Representation of Highly Multivariate Time Series](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        M. Poli, J. Park and I. Ilievski
+        </td>
     </tr>  
     <tr bgcolor="#f7f1df">
-        <td>10:30-11:00</td>
-        <td>Coffee Break</td>
-        <td></td>
-    </tr>  
+        <td markdown="span">[Reddit: A Novel Online Financial Consultancy](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        L. Manikonda and S. Divey
+        </td>
+    </tr>
     <tr>
-        <td>11:00-11:40</td>
-        <td>*[Keynote](/dan)* </td>
-        <td>Dan Roth <br> (University of Pennsylvania)</td>
-    </tr>  
-    <tr>
-        <td>11:40-11:50</td>
-        <td>The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures</td>
-        <td>Mohammad Ghassemi <br> (Ghamut Corporation)</td>
-    </tr>  
-    <tr>
-        <td>11:50-12:00</td>
-        <td>Classifying and Understanding Financial Transaction Data Using Graph Neural Network</td>
-        <td>Xiaoxiao Li <br>(Yale University)</td>
-    </tr> 
-    <tr>
-        <td>12:00-12:10</td>
-        <td>Label Augmentation via Time-based Knowledge Distillation for Financial Anomaly Detection</td>
-        <td>Hongda Shen <br> (University of Alabama in Huntsville)</td>
+        <td markdown="span">[Modeling Institutional Credit Risk with Financial News](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        T. The
+        </td>
     </tr>  
     <tr bgcolor="#f7f1df">
-        <td>12:10-1:30</td>
-        <td>Lunch</td>
-        <td></td>
-    </tr>  
+        <td markdown="span">[Multi-View Risk Classification for Customer Due Diligence](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        J. Huesca, S. Zon, W. Ipenburg, J. Veldsink and M. Pechenizkiy
+        </td>
+    </tr>
     <tr>
-        <td>1:30-2:10</td>
-        <td>*[Keynote 3](/danqi)*</td>
-        <td>Danqi Chen <br> (Princeton University) </td>
+        <td markdown="span">[Discrete Knowledge Graph Embedding based on Discrete Optimization](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        Y. Li, S. Xu, Z. Fu, S. Liu, B. Liu, X. Chen and Y. Zhang
+        </td>
     </tr>  
-    <tr>
-        <td>2:10-2:50</td>
-        <td>*[Keynote 4](/alfio)*</td>
-        <td>Alfio Massimiliano Gliozzo <br> (IBM Research)</td>
-    </tr>  
-    <tr>
-        <td>2:50-3:30</td>
-        <td>Panel</td>
-        <td>Panelists</td>
-    </tr> 
     <tr bgcolor="#f7f1df">
-        <td>3:30-4:00</td>
-        <td>Coffee Break</td>
-        <td></td>
-    </tr> 
+        <td markdown="span">[Classifying and Understanding Financial Transaction Data Using Graph Neural Network](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        X. Li, J. Saude, P. Reddy and M. Veloso
+        </td>
+    </tr>
     <tr>
-        <td>4:00-5:30</td>
-        <td>Poster Session</td>
-        <td></td>
-    </tr> 
+        <td markdown="span">[Mining company sustainability reports to aid financial decision-making](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        T. Goel, P. Jain, I. Verma, L. Dey and S. Paliwal
+        </td>
+    </tr>  
+    <tr bgcolor="#f7f1df">
+        <td markdown="span">[A Tool for Automatic Extraction of Information from Company Web Sites in the Field of International Servitization](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        G. Berend, C. Stadlmann, S. Mang and M. Überwimmer
+        </td>
+    </tr>
+    <tr>
+        <td markdown="span">[A Credit Scoring Model for SMEs Based on Social Media Data](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        S. Putra, B. Joshi, J. Redi and A. Bozzon
+        </td>
+    </tr>  
+    <tr bgcolor="#f7f1df">
+        <td markdown="span">[Label Augmentation via Time-based Knowledge Distillation for Financial Anomaly Detection](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+        H. Shen and E. Kursun
+        </td>
+    </tr>
 </tbody>
 </table>
 </center>
