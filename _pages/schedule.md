@@ -66,7 +66,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>11:00-11:40</td>
-        <td markdown="span">*[Keynote](/dan)* </td>
+        <td markdown="span">*[Keynote 2](/dan)* </td>
         <td>Dan Roth <br> (University of Pennsylvania)</td>
     </tr>  
     <tr>

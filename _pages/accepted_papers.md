@@ -2,37 +2,25 @@
 title: "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: splash
 permalink: /accepted_papers
+classes: wide
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
   #caption: 'Photo by <a href="me">me</a> on <a href="me">me</a>'
 excerpt: "<br/>Accepted Papers<br/>"
 ---
-
+<h2>List of Accepted Papers</h2>
 <center>
 <table>
-<colgroup>
-    <col width="10%" />
-    <col width="70%" />
-    <col width="18%" />
-</colgroup>
-<thead>
-    <tr class="header">
-    <th>Time</th>
-    <th>Title</th>
-    <th>Speakers/Authors</th>
-    </tr>
-</thead>
+
 <tbody>
     <tr>
-        <td>8:50-9:00</td>
-        <td>Open Remarks</td>
-        <td>Manuela Veloso / Sameena Shah <br>
-            (J.P. Morgan AI Research)</td>
+        <td markdown="span">[Leveraging Contextual Text Representations for Anonymizing German Financial Documents](/assets/pdfs/kdf2020_paper_14.pdf)<br>
+            D. Biesner, R. Ramamurthy, M. Lübbering, B. Fürst, H. Ismail, L. Hillebrand, A. Ladi, M. Pielka, R. Stenzel, T. Khameneh, V. Krapp, I. Huseynov, J. Schlums, U. Stoll, U. Warning, B. Kliem, C. Bauckhage, and R. Sifa
+        </td>
     </tr>
     <tr>
-        <td>9:00-9:40</td>
+        
         <td markdown="span">*[Keynote: Machine Learning in Finance - Lessons Learned](/charles)*</td>
-        <td>Charles Elkan<br>(Goldman Sachs) </td>
     </tr>   
     <tr>
         <td>9:40-9:50</td>
