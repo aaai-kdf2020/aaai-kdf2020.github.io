@@ -21,4 +21,4 @@ Roth has published broadly in machine learning, natural language processing, kno
 Prof. Roth received his B.A Summa cum laude in Mathematics from the Technion, Israel, and his Ph.D. in Computer Science from Harvard University in 1995.
 
 <h2>Title:</h2>
-<h3>Abstract:</h3> This is an abstract
+<h3>Abstract:</h3> 
