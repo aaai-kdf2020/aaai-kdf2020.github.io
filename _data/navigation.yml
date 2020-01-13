@@ -6,11 +6,12 @@ main:
     url: call_for_papers
   - title: "Schedule"
     url: schedule 
+  - title: "Accepted Papers"
+    url: accepted_papers
   - title: "Organization"
     url: organizers
   - title: "Program Committee"
     url: program_committee
-  - title: "Accepted Papers"
-    url: accepted_papers
+
   # - title: "Sitemap"
   #   url: /sitemap/
