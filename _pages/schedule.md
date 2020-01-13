@@ -36,27 +36,27 @@ excerpt: "<br/>Schedule<br/>"
     </tr>   
     <tr>
         <td>9:40-9:50</td>
-        <td>"The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports</td>
+        <td markdown="span">["The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports](/assets/pdfs/kdf2020_paper_11.pdf)/td>
         <td>Ting-Wei Lin <br>(National Chengchi University) </td>
     </tr>        
     <tr>
         <td>9:50-10:00</td>
-        <td>Economic News Impact Analysis Using Causal-Chain Search from Textural Data</td>
+        <td markdown="span">[Economic News Impact Analysis Using Causal-Chain Search from Textural Data](/assets/pdfs/kdf2020_paper_13.pdf)</td>
         <td>Kiyoshi Izumi<br> (University of Tokyo)</td>
     </tr>        
     <tr>
         <td>10:00-10:10</td>
-        <td>Mining Company Sustainability Reports to Aid Financial Decision-making </td>
+        <td markdown="span">[Mining company sustainability reports to aid financial decision-making](/assets/pdfs/kdf2020_paper_24.pdf) </td>
         <td>Tushar Goel <br> (Tata Consultancy)</td>
     </tr>  
     <tr>
         <td>10:10-10:20</td>
-        <td>Leveraging Contextual Text Representations for Anonymizing German Financial Documents</td>
+        <td markdown="span">[Leveraging Contextual Text Representations for Anonymizing German Financial Documents](/assets/pdfs/kdf2020_paper_7.pdf)</td>
         <td>David Biesner <br> (Fraunhofer)</td>
     </tr>  
     <tr>
         <td>10:20-10:30</td>
-        <td>A Credit Scoring Model for SMEs Based on Social Media Data</td>
+        <td markdown="span">[A Credit Scoring Model for SMEs Based on Social Media Data](/assets/pdfs/kdf2020_paper_26.pdf)</td>
         <td>Septian Putra <br> (Exact Software)</td>
     </tr>  
     <tr bgcolor="#f7f1df">
@@ -71,17 +71,17 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>11:40-11:50</td>
-        <td>The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures</td>
+        <td markdown="span">[The Automated Venture Capitalist: Data and Methods to Predict the Fate of Startup Ventures](/assets/pdfs/kdf2020_paper_14.pdf)</td>
         <td>Mohammad Ghassemi <br> (Ghamut Corporation)</td>
     </tr>  
     <tr>
         <td>11:50-12:00</td>
-        <td>Classifying and Understanding Financial Transaction Data Using Graph Neural Network</td>
+        <td markdown="span">[Classifying and Understanding Financial Transaction Data Using Graph Neural Network](/assets/pdfs/kdf2020_paper_21.pdf)</td>
         <td>Xiaoxiao Li <br>(Yale University)</td>
     </tr> 
     <tr>
         <td>12:00-12:10</td>
-        <td>Label Augmentation via Time-based Knowledge Distillation for Financial Anomaly Detection</td>
+        <td markdown="span">[Label Augmentation via Time-based Knowledge Distillation for Financial Anomaly Detection](/assets/pdfs/kdf2020_paper_31.pdf)</td>
         <td>Hongda Shen <br> (University of Alabama in Huntsville)</td>
     </tr>  
     <tr bgcolor="#f7f1df">
