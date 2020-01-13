@@ -36,7 +36,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>   
     <tr>
         <td>9:40-9:50</td>
-        <td markdown="span">["The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports](/assets/pdfs/kdf2020_paper_11.pdf)/td>
+        <td markdown="span">["The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports](/assets/pdfs/kdf2020_paper_11.pdf)</td>
         <td>Ting-Wei Lin <br>(National Chengchi University) </td>
     </tr>        
     <tr>
