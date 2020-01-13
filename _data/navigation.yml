@@ -10,5 +10,7 @@ main:
     url: organizers
   - title: "Program Committee"
     url: program_committee
+  - title: "Accepted Papers"
+    url: accepted_papers
   # - title: "Sitemap"
   #   url: /sitemap/
