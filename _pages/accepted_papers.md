@@ -15,12 +15,12 @@ excerpt: "<br/>Accepted Papers<br/>"
 <tbody>
     <tr bgcolor="#f7f1df">
         <td markdown="span">[Leveraging Contextual Text Representations for Anonymizing German Financial Documents](/assets/pdfs/kdf2020_paper_7.pdf)<br>
-            D. Biesner, R. Ramamurthy, M. Lübbering, B. Fürst, H. Ismail, L. Hillebrand, A. Ladi, M. Pielka, R. Stenzel, T. Khameneh, V. Krapp, I. Huseynov, J. Schlums, U. Stoll, U. Warning, B. Kliem, C. Bauckhage, and R. Sifa
+            D. Biesner, R. Ramamurthy, M. Lübbering, B. Fürst, H. Ismail, L. Hillebrand, A. Ladi, M. Pielka, R. Stenzel, T. Khameneh, V. Krapp, I. Huseynov, J. Schlums, U. Stoll, U. Warning, B. Kliem, C. Bauckhage and R. Sifa
         </td>
     </tr>
     <tr>
         <td markdown="span">["The Cat is Out of the Bag" Explainable Risk Ranking with Financial Reports](/assets/pdfs/kdf2020_paper_11.pdf)<br>
-        T. Lin, R. Sun, H. Chang, C. Wang, and M. Tsai
+        T. Lin, R. Sun, H. Chang, C. Wang and M. Tsai
         </td>
     </tr>   
     <tr bgcolor="#f7f1df">
