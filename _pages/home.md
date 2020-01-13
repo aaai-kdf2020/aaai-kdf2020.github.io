@@ -48,9 +48,9 @@ This one-day workshop will include invited speaks, paper presentations, and post
             <td><s>December 13th, 2019</s></td>
         </tr>        
         <tr>
-            <td>AAAI-20 Late Registration Deadline</td>
-            <td>Friday</td>
-            <td>January 10th, 2020</td>
+            <td><s>AAAI-20 Late Registration Deadline</s></td>
+            <td><s>Friday</s></td>
+            <td><s>January 10th, 2020</s></td>
         </tr>        
         <tr>
             <td>Workshop</td>
