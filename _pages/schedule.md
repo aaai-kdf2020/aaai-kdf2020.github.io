@@ -96,7 +96,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>2:10-2:50</td>
-        <td markdown="span">*[Keynote 4](/alfio)*</td>
+        <td markdown="span">*[Minimally Supervised Knowledge Graph Induction from Text](/alfio)*</td>
         <td>Alfio Massimiliano Gliozzo <br> (IBM Research)</td>
     </tr>  
     <tr>
