@@ -1,6 +1,6 @@
 ---
 title: "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
-layout: single
+layout: splash
 permalink: /panel
 classes: wide
 header:
