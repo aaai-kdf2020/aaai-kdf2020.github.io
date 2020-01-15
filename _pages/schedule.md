@@ -56,8 +56,8 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>10:20-10:30</td>
-        <td markdown="span">[A Credit Scoring Model for SMEs Based on Social Media Data](/assets/pdfs/kdf2020_paper_26.pdf)</td>
-        <td>Septian Putra <br> (Exact Software)</td>
+        <td markdown="span">[TBD](/assets/pdfs/kdf2020_paper_TBD.pdf)</td>
+        <td>TBD <br> (TBD)</td>
     </tr>  
     <tr bgcolor="#f7f1df">
         <td>10:30-11:00</td>
@@ -101,7 +101,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>2:50-3:30</td>
-        <td>Panel</td>
+        <td markdown="span">*[Panel](/panel)*</td>
         <td>Panelists</td>
     </tr> 
     <tr bgcolor="#f7f1df">
