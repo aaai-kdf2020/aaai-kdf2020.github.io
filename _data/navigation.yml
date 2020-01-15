@@ -2,8 +2,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Call for Papers"
-    url: call_for_papers
   - title: "Schedule"
     url: schedule 
   - title: "Accepted Papers"
@@ -12,6 +10,8 @@ main:
     url: organizers
   - title: "Program Committee"
     url: program_committee
+  - title: "Call for Papers"
+    url: call_for_papers
 
   # - title: "Sitemap"
   #   url: /sitemap/
