@@ -1,7 +1,7 @@
 ---
 title: "The AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services"
 layout: single
-permalink: /alfio
+permalink: /panel
 classes: wide
 header:
   overlay_image: "/assets/images/home_splash_nyc.png"
