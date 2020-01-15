@@ -101,8 +101,8 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>2:50-3:30</td>
-        <td markdown="span">*[Panel](/panel)*</td>
-        <td>Panelists</td>
+        <td markdown="span">*Panel*</td>
+        <td markdown="span">[Panelists](/panel)</td>
     </tr> 
     <tr bgcolor="#f7f1df">
         <td>3:30-4:00</td>
