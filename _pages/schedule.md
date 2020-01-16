@@ -56,8 +56,8 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>10:20-10:30</td>
-        <td markdown="span">[TBD](/assets/pdfs/kdf2020_paper_TBD.pdf)</td>
-        <td>TBD <br> (TBD)</td>
+        <td markdown="span">[A Robust Transferable Deep Learning Framework for Cross-sectional Investment Strategy](/assets/pdfs/kdf2020_paper_16.pdf)</td>
+        <td>Kei Nakagawa<br> (Nomura Asset Management)</td>
     </tr>  
     <tr bgcolor="#f7f1df">
         <td>10:30-11:00</td>
