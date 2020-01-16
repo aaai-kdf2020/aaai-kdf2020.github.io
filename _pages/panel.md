@@ -22,6 +22,10 @@ has been cited in over 4000 papers in biology and computer science.
 In academia, Dr. Elkan's students have held tenure-track or tenured positions at the University of Washington,
 Carnegie Mellon University, Stanford, Columbia, and other universities,
 while in industry, they have achieved executive positions at Google and elsewhere.
+<h3>Christine Tu</h3>
+Christine Tu is an Executive Director at Morgan Stanley Wealth Management Technology. Christine heads AI/ML/Knowledge Management and Contact Center for MS Wealth Management.
+Christine is responsible for designing and developing AI and Machine Learning enabled solution to improve knowledge management and operation efficiency.
+Christine has worked as a technologist in the financial industry for over 20 years. She has a broad and deep experience with Chatbot, Data Science and Full Life Cycle software development.
 
 <h3>Eric Brown</h3>
 Eric Brown has been conducting and leading research and development in Artificial Intelligence
