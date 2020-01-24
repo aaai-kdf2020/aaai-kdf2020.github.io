@@ -40,7 +40,7 @@ excerpt: "<br/>Accepted Papers<br/>"
     </tr>
     <tr>
         <td markdown="span">[Modeling Institutional Credit Risk with Financial News](/assets/pdfs/kdf2020_paper_17.pdf)<br>
-        T. The
+        T. Tran-The
         </td>
     </tr>  
     <tr bgcolor="#f7f1df">
