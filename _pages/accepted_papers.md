@@ -74,16 +74,11 @@ excerpt: "<br/>Accepted Papers<br/>"
         </td>
     </tr>
     <tr bgcolor="#f7f1df">
-        <td markdown="span">[A Credit Scoring Model for SMEs Based on Social Media Data](/assets/pdfs/kdf2020_paper_26.pdf)<br>
-        S. Putra, B. Joshi, J. Redi and A. Bozzon
-        </td>
-    </tr>  
-    <tr>
         <td markdown="span">[Reddit: A Novel Online Financial Consultancy](/assets/pdfs/kdf2020_paper_30.pdf)<br>
         L. Manikonda and S. Divey
         </td>
     </tr>
-    <tr bgcolor="#f7f1df">
+    <tr>
         <td markdown="span">[Label Augmentation via Time-based Knowledge Distillation for Financial Anomaly Detection](/assets/pdfs/kdf2020_paper_31.pdf)<br>
         H. Shen and E. Kursun
         </td>
