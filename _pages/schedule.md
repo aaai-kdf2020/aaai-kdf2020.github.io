@@ -66,7 +66,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>11:00-11:40</td>
-        <td markdown="span">*[Keynote 2](/dan)* </td>
+        <td markdown="span">*[Learning from Incidental Supervision Signals](/dan)* </td>
         <td>Dan Roth <br> (University of Pennsylvania)</td>
     </tr>  
     <tr>
@@ -91,7 +91,7 @@ excerpt: "<br/>Schedule<br/>"
     </tr>  
     <tr>
         <td>1:30-2:10</td>
-        <td markdown="span">*[Keynote 3](/danqi)*</td>
+        <td markdown="span">*[Advancing Textual Question Answering](/danqi)*</td>
         <td>Danqi Chen <br> (Princeton University) </td>
     </tr>  
     <tr>
