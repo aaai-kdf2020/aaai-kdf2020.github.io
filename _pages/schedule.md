@@ -25,7 +25,7 @@ excerpt: "<br/>Schedule<br/>"
 <tbody>
     <tr>
         <td>8:50-9:00</td>
-        <td>Open Remarks</td>
+        <td>Opening Remarks</td>
         <td>Manuela Veloso / Sameena Shah <br>
             (J.P. Morgan AI Research)</td>
     </tr>
