@@ -53,9 +53,9 @@ This one-day workshop will include invited speaks, paper presentations, and post
             <td><s>January 10th, 2020</s></td>
         </tr>        
         <tr>
-            <td>Workshop</td>
-            <td>Friday</td>
-            <td>February 7th, 2020</td>
+            <td><s>Workshop</s></td>
+            <td><s>Friday</s></td>
+            <td><s>February 7th, 2020</s></td>
         </tr>   
 </tbody>
 </table>
