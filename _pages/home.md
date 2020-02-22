@@ -61,8 +61,5 @@ This one-day workshop will include invited speaks, paper presentations, and post
 </table>
 </center>
 
-<h2 id='registration'>Registration</h2>
-[The AAAI workshop registration is now open!](https://aaai.org/Conferences/AAAI-20/registration/)
-
 <h2 id='contact'>Contact Information</h2>
 For general inquiries about the KDF workshop and participation, please write to kdf2020@easychair.org.
