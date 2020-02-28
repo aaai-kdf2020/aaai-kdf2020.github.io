@@ -9,6 +9,10 @@ header:
 ---
 
 <h2>Panelists</h2>
+<h3>Eren Kurshan</h3>
+Eren Kurshan is the Executive Head of AI and Machine Learning for Client Protection at Bank of America Corporation. In this role she is responsible for leading the development of custom Machine Learning and Deep Learning solutions for fraud detection, prevention and operational improvement for Bank of America. Dr. Kurshan and her team built the first generation of in-house AI and Machine Learning models for Bank of America's payment systems portfolio (including Credit Card, Debit Card, ATM, Wire, ACH, P2P Payments, Checks, Deposits, Online/Bill Pay transactions, Alert Processing and Prioritization etc) processing over 50MM transaction/day volume in real-time.
+Prior to her role at Bank of America, Dr. Kurshan has served as the executive lead for various AI and Data Science Programs at Columbia University, J.P. Morgan Corporate and Investment Bank, and IBM. Dr. Kurshan was a Visiting Fellow at Princeton University Center for Information Technology Policy during 2015-2016. She has been serving as an Adjunct Professor of Computer Science at Columbia University since 2014. Dr. Kurshan received her Ph.D. in Applied Algorithms and Theoretical Computer Science from the University of California. She has over 60 peer reviewed technical conference and journal publications and over 100 patents. She was the recipient of 2 Best Paper Awards from IEEE and ACM Conferences, Outstanding Research and Corporate Accomplishment Awards from IBM.
+
 <h3> Charles Elkan </h3>
 Charles Elkan is a managing director and the global head of machine learning at Goldman Sachs in New York.
 He is also an adjunct professor in the Department of Computer Science and Engineering at the University of California, San Diego.
